@@ -1,10 +1,8 @@
-# atemoia
 
 > A simple full-stack clojure app
 
 Learn more about [clojure project structure](https://souenzzo.com.br/creating-a-clojure-project.html).
 
-Checkout the [live demo](https://atemoia.herokuapp.com/).
 
 This is a simple fullstack clojure application developed to explain how to deploy a clojure app.
 
@@ -130,5 +128,3 @@ The idea is to be easy to deploy on heroku. Heroku gives me Postgres, so I'm ok 
 ---
 
 In case of questions or errors, report an issue
-
-If you prefer talk [directly with me](https://t.me/souenzzo)
